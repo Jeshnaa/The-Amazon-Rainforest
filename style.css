@@ -1,0 +1,183 @@
+body{
+text-align: center;
+}
+#page1{
+    background-image: url('https://images.unsplash.com/photo-1458430447310-8b6c596117a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTYzOTc1OTgwMw&ixlib=rb-1.2.1&q=80&w=400');
+    background-size: 2000px;
+    background-position:center;
+    
+}
+
+#importance{
+    padding-top: 40px;
+    background-image: url(https://previews.123rf.com/images/1stchoice/1stchoice1801/1stchoice180100024/93964107-light-green-background-texture.jpg);
+    background-size: 2000px;
+    background-position:center;
+}
+#intro{
+    color: rgb(252, 175, 61);
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 60px;
+}
+#title{
+    padding-top: 150px;
+    color:#fff12a;
+      font-family: 'Luxurious Roman', cursive;
+      font-size: 90px;
+
+}
+.menu{
+    position: fixed;
+    list-style: none;
+
+    left: 90px;
+    cursor: pointer;
+    z-index: 5;
+    background-color: lightgreen;
+}
+.links{
+
+    font-size: 18px;
+    float: left;
+    padding: 30px;
+    padding-right: 30px;
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    }
+    .links:hover{
+        background-color: rgb(255, 255, 255);
+        cursor: pointer;
+    }
+    #headingimp{
+        font-size: 60px;
+        font-family: 'Bungee', cursive;
+        color: #064eba;
+       }
+    #impintro{
+        font-size: 40px;
+        font-family:  Georgia, Times, 'Times New Roman', serif;
+        color:#f70fa9
+    }
+    #img{
+        height: 300px;
+    }
+    #imp{
+        font-size: 30px ;
+        color: rgb(247, 90, 63);
+    }
+#imp1{
+    font-size: 25px;
+    color: #983dee;
+}
+#impconclusion{
+    font-size: 40px;
+    color:rgb(201, 15, 123);
+}
+#dangerheading{
+    padding-top: 100px;
+    font-size: 70px;
+    color: #f12eff;
+}
+#danger{
+    background-image: url(https://images.vexels.com/media/users/3/103750/raw/b4ee370e2596fef055685711051d9346-green-natural-bokeh-circles-background.jpg);
+    background-size: 2000px;
+    
+}
+#dangerspic{
+    height:200px;
+    padding-right: 5%;
+
+}
+#dangerintro{
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    color: #ffc45e;
+}
+#danger1{
+    font-family: 'Bubblegum Sans', cursive;
+    color: #23ffb6;
+    font-size: 30px;
+
+}
+#danger2{
+    font-family: 'Bubblegum Sans', cursive;
+color:#cee805;
+font-size: 30px;
+}
+#dangerspic1{
+    height: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#problems{
+    font-family: 'Bubblegum Sans', cursive;
+    color: lightpink;
+    font-size: 30px;
+}
+#problems1{
+    font-family: 'Bubblegum Sans', cursive; 
+    font-size: 30px;
+    color: navajowhite;
+}
+#save{
+    background-image: url(https://previews.123rf.com/images/chuyu/chuyu1403/chuyu140300049/27244993-transparente-gr%C3%BCne-bl%C3%A4tter-textur-hintergrund.jpg);
+    background-size: 2000px;
+}
+#saveheading{
+    font-size: 80px;
+    font-family: 'Arima Madurai', cursive;
+    color: darkblue;
+}
+#saveimg{
+    height: 300px;
+}
+#save3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    color: #0065fc ;
+}
+#save1{
+    font-family: 'Tillana', cursive;
+    color:#b33691;
+    font-size: 40px;
+}
+#save2{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: crimson; 
+}
+#save4{
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: deeppink;
+
+}
+#fsc{
+    transition:transform 1s;
+}
+#fsc:hover{
+transform:scale(.7)
+}
+#info{
+    background-image: url(https://previews.123rf.com/images/oksanatukane/oksanatukane1809/oksanatukane180900010/112182730-colored-leafs-leaf-texture-pattern-macro-leaves-background-texture-floral-design-leaves-rainbow-colo.jpg);
+background-size: 2000px;
+}
+#sources{
+    background-color: antiquewhite;
+}
+#infoheading{
+    padding-top: 110px;
+    font-family: 'Orelega One', cursive;
+    color: darkmagenta;
+    font-size: 70px;
+}
+#videos{
+    color:midnightblue;
+    font-size: 40px;
+    font-family: 'Inconsolata', monospace;
+}
+#video{
+    padding: 20px;
+}
